@@ -28,5 +28,5 @@ navbar:
       href: https://www.linkedin.com/in/meghan-blumstein-07b0ab3b/
 output:
   html_document:
-    theme: sandstone
+    theme: superhero
     css: 'styles.css'
