@@ -1,0 +1,58 @@
+---
+title: "Published articles"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+A full list of my publications is available on [Google scholar](https://scholar.google.com/citations?user=Xsxg0-sAAAAJ&hl=en).
+
+
+**19)** Andrew P. Nosal AP, Cartamil DC, Ammann AJ, Bellquist LF, Ben-Aderet NJ, Blincow KM, Burns ES, Chapman ED, Freedman RM, Klimley PA, Logan RK, Lowe CG, Semmens BX, **White CF**, Hastings PA. *In Review*. Triennial Migration and Philopatry in the Critically Endangered Soupfin Shark (Galeorhinus galeus).*Proceedings of the National Academy of Sciences*
+
+**18)** Whitney NM, **White CF**, Smith BJ, Cherkiss MS, Mazzotti FJ, Hart KM. *In Review*. Activity patterns of invasive Burmese pythons (Python bivittatus) in the wild. *Animal Biotelemetry*  
+
+**17)** Popp M, **White CF**, Bernal D, Wainwright DK, Lauder GV. 2020. The denticle surface of thresher shark tails: three-dimensional structure and comparison to other pelagic species. *Journal of Morphology* 281(8): 938-955
+
+**16)** Barilotti A, **White CF**, Lowe CG, 2020. Fishing pier association of white croaker and California halibut within the Los Angeles and Long Beach harbors. *Southern California Academy of Sciences Bulletin* 119(1):18-34
+
+**15)** Yung-Chun Z, Moxley JH, Kanive P, Gleiss A, Maughan T, Bird L, Jewell O, Chapple T, Gagne T, **White CF**, Jorgensen SJ. 2019. Deep learning accurately predicts white shark locomotor activity from depth data. *Animal Biotelemetry* 7(1):1-13
+
+**14)** **White CF**, Lyons K, Weng K, Winkler C, Jorgensen SJ, O’Sullivan J, Lowe CG. 2019. Quantifying habitat selection and variability in habitat suitability for juvenile white sharks. *PlosOne* 14(5) e0214642
+
+**13)** Logan RK, Winkler C, Lyons K, **White CF**, Jorgensen SJ, O’Sullivan, JB Lowe CG. 2018. Length, girth and weight morphometic relationships for juvenile white sharks (Carcharodon carcharias) in Southern California. *Journal of Fish Biology* 93(5): 842-849
+
+**12)** Whitney NM, Lear KO, Gleiss AC, **White CF**. 2018. Advances in the application of high-resolution biologgers to elasmobranch fishes. In: *Shark Research: Emerging Technologies and Application for the Field and Laboratory*. Editor: Carrier JC, Heithaus MR, Simpfendorfer CA P. 45-71
+
+**11)** Lowe CG, **White CF**, Clark CM.  2018. Use of autonomous vehicles for tracking and surveying of tagged elasmobranchs. In: Shark Research: *Emerging Technologies and Application for the Field and Laboratory*. Editor: Carrier JC, Heithaus MR, Simpfendorfer CA. P. 93-111
+
+**10)** Benson JF, Jorgensen SJ, O’Sullivan JB, Winkler C, **White CF**, Garcia E, Sosa-Nishizaki O, Lowe CG. 2018. Juvenile survival, competing risks, and spatial variation in mortality risk of a marine apex predator. *Journal of Applied Ecology* 55(6) 2888-2897
+
+**9)** Whitney NM, **White CF**, Anderson PA, Skomal GB, Hueter RH. 2017. Relationships between behavioral and physiological responses and post-release mortality of blacktip sharks (Carcharhinus limbatus) caught by circle and J- hooks in the Florida recreational shark fishery. *US Fisheries Bulletin* 115(4): 523-543
+
+**8)** Lin Y, Hsiung J, Piersall R, **White CF**,  Lowe CG, Clark CM. 2017. A Multi-AUV System for Autonomous Tracking of Marine Life. *Journal of Field Robotics*. 34(4): 757-773
+
+**7)** **White CF**, Lin Y, Clark CM, Lowe CG. 2016. Man V Robot, assessing the viability of autonomous underwater vehicles to actively track a tagged animal. *Journal of Experimental Marine Biology and Ecology* 485:112-118.
+
+**6)** Smith K, Hsiung S, **White CF**, Lowe CG, Clark CM. 2016. Stochastic modeling and control for tracking the periodic movements of marine animals via AUVs. *Intelligent Robots and Systems (IROS 2016)* 3101-3107.
+
+**5)** Hart KM, **White CF**, Sartain AR, Whitney NM. 2016. Trading shallow safety for deep sleep: juveniles green sea turtles risk increased predation for better rest as they grow. *Endangered Species Research* 31:61-73.
+
+**4)** Whitney NM, **White CF**, Gleiss AC, Schweiterman GD, Anderson PA, Skomal GB, Hueter RH. 2016. A novel method for determining post-release mortality, behavior, and recovery period using acceleration data loggers. *Fisheries Research* 183: 210-221
+
+**3)** Whitmore BM, **White CF**, Gleiss AC, Whitney NM. 2016. A float-release package for recovering data-loggers from wild sharks. *Journal of Experimental Marine Biology and Ecology* 475:49-53.
+
+**2)** Lin Y, Kastein H, Peterson T, **White CF**, Lowe CG, Clark CM. 2014. A Multi-AUV state estimator for determining the 3D position of tagged fish. In: *Intelligent Robots and Systems (IROS 2014)*. pp 3469-3475.
+
+**1)** Lin Y, Kastein H, Peterson T, **White CF**, Lowe CG, Clark CM. 2013. Using time of flight distance calculations for tagged shark localization with an AUV. *Proceedings of the Unmanned Untethered Submersible Technology Conference*.
+
+## IUCN Red List Assessments
+
+1. Perez-Jimenez JC, **White CF**, Ruiz C, Carlisle AB, Lowe CG. 2016. *Mustelus lunulatus*, Sicklefin Smoothhound. The IUCN Red List of Threatened Species 2016:e.T161640A5470780.
+
+1. Bizzarro JJ, Kyne PM, Freedman RM, **White CF**, Lowe CG. 2015. *Zapteryx exasperata*, Banded Guitarfish. The IUCN Red List of Threatened Species 2015:e.T60177A80673370.
+
+1. Carlisle AB, Smith SE, Launer AL, **White CF**. 2015. *Triakis semifasciata*, Leopard Shark. The IUCN Red List of Threatened Species 2015:e.T39363A80672743.
+
+1. Villavicencio-Garayzar CJ, **White CF**, Lowe CG. 2015. *Cephaloscyllium ventriosum*, Swell Shark. The IUCN Red List of Threatened Species 2015: e.T60227A80671800.
+

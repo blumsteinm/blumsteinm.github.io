@@ -1,0 +1,11 @@
+---
+title: "CV"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img style="float: right; width:70%; border:0px solid; margin-left: 10px" src="images/Connor_Fishing.jpg">
+
+<br>
+
+My full CV is available for download [here](files/White CF_CV.pdf).

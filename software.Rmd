@@ -1,0 +1,12 @@
+---
+title: "Software"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Github packages
+
+- [`gRumble`](https://github.com/MBayOtolith/gRumble), a package of functions for the reorientation of acceleration dataloggers
+- [`TeleFunc`](https://github.com/ConnorFWhite/TeleFunc), a package of personal utility functions to aid in analyzing telemetry data
+
+

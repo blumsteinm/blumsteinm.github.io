@@ -1,0 +1,32 @@
+name: "Connor F. White"
+output_dir: "."
+navbar:
+  title: "Connor F. White"
+  left:
+    - text: "Education"
+      href: education.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Speaking"
+      href: talks.html
+    - text: "Programming"
+      href: software.html
+    - text: "CV"
+      href: CV.html      
+  right:
+    - icon: fa-envelope fa-lg
+      href: connor.white@gmail.com
+    - icon: fa-github fa-lg
+      href: http://github.com/ConnorFWhite
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/ConnorFWhite
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/connor-white-2bb21747/
+output:
+  html_document:
+    theme: sandstone
+    css: 'styles.css'
