@@ -1,7 +1,7 @@
-name: "Connor F. White"
+name: "Meghan J. Blumstein"
 output_dir: "."
 navbar:
-  title: "Connor F. White"
+  title: "Meghan J. Blumstein"
   left:
     - text: "Education"
       href: education.html
@@ -19,13 +19,13 @@ navbar:
       href: CV.html      
   right:
     - icon: fa-envelope fa-lg
-      href: connor.white@gmail.com
+      href: blumsteinm@gmail.com
     - icon: fa-github fa-lg
-      href: http://github.com/ConnorFWhite
+      href: http://github.com/blumsteinm
     - icon: fa-twitter fa-lg
-      href: https://twitter.com/ConnorFWhite
+      href: https://twitter.com/treeFutures
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/connor-white-2bb21747/
+      href: https://www.linkedin.com/in/meghan-blumstein-07b0ab3b/
 output:
   html_document:
     theme: sandstone
