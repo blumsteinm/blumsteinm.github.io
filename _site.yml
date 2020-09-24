@@ -13,8 +13,6 @@ navbar:
       href: teaching.html
     - text: "Speaking"
       href: talks.html
-    - text: "Programming"
-      href: software.html
     - text: "CV"
       href: CV.html      
   right:

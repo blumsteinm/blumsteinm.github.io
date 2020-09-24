@@ -4,11 +4,9 @@ title: "CV"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img style="float: right; width:20%; border:0px solid; margin-left: 10px" src="images/core_hf_1.jpg">
-
 ![BlumsteinCV](files/Blumstein_Meghan_CV.pdf){width=900px}
 
 
 <br>
 
-My full CV is available for download [here](files/Blumstein_Meghan_CV.pdf).
+download [here](files/Blumstein_Meghan_CV.pdf).

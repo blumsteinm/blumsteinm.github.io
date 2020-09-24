@@ -3,7 +3,15 @@ title: "Current Research"
 ---
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## I am broadly interested in understanding how forest species will respond to future climate change. I am particularly interested in the potential for species and populations to undergo rapid local adaptation, a long neglected pillar of plant response to change. 
+<br>
+
+## How will forest species survive ongoing climate change?
+
+Forests worldwide absorb around 40% of our annual carbon emissions each year. They serve as a critical carbon "sink", temporarily storing carbon in plant tissues and soils. Thus, forests play a critical role in mitigating climate change. 
+
+However, forest trees are also affected by climate change. Rising temperatures, changing precipitation patterns, and increasing frequencies of disturbance all affect forest productivity and even species survival. These intense selection pressures can drive 
+
+I am particularly interested in the potential for species and populations to undergo rapid local adaptation, a long neglected pillar of plant response to change. 
 
 [evidence of that rapid adaptation can occur and has occurred in the past to enable species survival to past climate shifts]
 
