@@ -4,11 +4,10 @@ title: "CV"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-![Alternate Name](files/Blumstein_Meghan_CV.pdf){width=500px}
+<img style="float: right; width:20%; border:0px solid; margin-left: 10px" src="images/core_hf_1.jpg">
 
-<embed src="files/Blumstein_Meghan_CV.pdf" type="application/pdf"   height="700px" width="500">
+![BlumsteinCV](files/Blumstein_Meghan_CV.pdf){width=900px}
 
-<img style="float: right; width:50%; border:0px solid; margin-left: 10px" src="images/core_hf_1.jpg">
 
 <br>
 
