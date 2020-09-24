@@ -3,9 +3,9 @@ output_dir: "."
 navbar:
   title: "Meghan J. Blumstein"
   left:
-    - text: "Education"
-      href: education.html
-    - text: "Experience"
+    - text: "Past Projects"
+      href: past-projects.html
+    - text: "Current Research"
       href: experience.html
     - text: "Publications"
       href: Publications.html
