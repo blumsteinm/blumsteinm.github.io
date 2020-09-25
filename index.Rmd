@@ -4,12 +4,7 @@ title: "Home"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-
-<img style="width:23%; border:0px solid; margin-right: 10px" src="images/canada_bog.jpg">
-<img style="width:23%; border:0px solid; margin-right: 10px" src="images/canopy_1.jpg">
-<img style="width:23%; border:0px solid; margin-right: 10px" src="images/mb_on_redwood.jpg">
-<img style="width:23%; border:0px solid; margin-right: 10px" src="images/clatskanie_2.jpg">
-
+<img style="width:100%; border:0px solid; margin-right: 10px" src="images/hf_winter_2.jpg">
 
 <br>
 
@@ -18,5 +13,10 @@ I am an NSF Postdoctoral Fellow interested in understanding how temperate trees 
 
 My current fellowship project is advised by David DesMarais at [MIT](https://cee.mit.edu/people_individual/david-des-marais/) and Isabelle Chuine at the [Center for Functional Ecology and Evolution (CEFE)](https://www.cefe.cnrs.fr/fr/recherche/ef/dream/829-c/132-isabelle-chuine). The work seeks to unite our understanding of the environmental and genetic drivers of variation in phenological timing into a unified, process-based model. 
 
+<br>
 
-My full CV is available [here](files/Blumstein_Meghan_CV.pdf).
+<img style="width:23%; border:0px solid; margin-right: 10px" src="images/canada_bog.jpg">
+<img style="width:23%; border:0px solid; margin-right: 10px" src="images/canopy_1.jpg">
+<img style="width:23%; border:0px solid; margin-right: 10px" src="images/mb_on_redwood.jpg">
+<img style="width:23%; border:0px solid; margin-right: 10px" src="images/clatskanie_2.jpg">
+

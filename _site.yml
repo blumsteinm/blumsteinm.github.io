@@ -14,7 +14,9 @@ navbar:
     - text: "Presentations"
       href: talks.html
     - text: "CV"
-      href: CV.html      
+      href: CV.html 
+    - text: "Field Images"
+      href: photos.html 
   right:
     - icon: fa-envelope fa-lg
       href: blumsteinm@gmail.com
