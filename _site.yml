@@ -4,14 +4,14 @@ navbar:
   title: "Meghan J. Blumstein"
   left:
     - text: "Past Projects"
-      href: past-projects.html
+      href: pastProjects.html
     - text: "Current Research"
       href: experience.html
     - text: "Publications"
       href: Publications.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Speaking"
+    - text: "Presentations"
       href: talks.html
     - text: "CV"
       href: CV.html      

@@ -1,0 +1,27 @@
+---
+title: "Outreach"
+output: html_document
+---
+
+<img src="images/Lowell_HF_1.jpg" style="width:40%; border:0px solid; margin-right: 20px" align="left">
+
+<br>
+
+* **Resident Tutor** , Lowell House, Harvard University
+* From Fall 2017 through present I have been a resident tutor at Lowell House, one of the dorms at Harvard College. I live in the building with students where I am additional resource and daily interact with a wide range of students where I provide advice on both academic and personal matters. Within the house I am in charge of the intermural program, as well as part of the Fellowship team and the Lowell Speeches Program.
+
+<br>
+
+
+
+
+<img src="images/Lowell_HF_1.jpg" style="width:40%; border:0px solid; margin-right: 20px" align="left">
+
+<br>
+
+* **Resident Tutor** , Lowell House, Harvard University
+* From Fall 2017 through present I have been a resident tutor at Lowell House, one of the dorms at Harvard College. I live in the building with students where I am additional resource and daily interact with a wide range of students where I provide advice on both academic and personal matters. Within the house I am in charge of the intermural program, as well as part of the Fellowship team and the Lowell Speeches Program.
+
+<br>
+<br>
+
