@@ -43,7 +43,7 @@ list.join(",")
 			rotatorHtml += '<img src="' + rotator1imgs[rotator1currentAd] + '" alt = "' + rotator1alt[rotator1currentAd] + '" id="rotator1">' + endJs;
 	document.getElementById("rotator1_div").innerHTML = rotatorHtml;	
 		rotator1currentAd++;
-		window.setTimeout(rotator1cycle,2500);
+		window.setTimeout(rotator1cycle,2000);
 	}
 	rotator1cycle();
 // -->
