@@ -6,7 +6,7 @@ title: "Past Projects"
 
 <br>
 
-<img style="width:100%;border:0px solid; margin-right: 10px" src="images/web_106.jpg">
+<img style="width:100%;border:0px solid; margin-right: 10px" src="images/web_81.jpg">
 
 
 ## The consequences of four landuse scenarios to ecosystem service provisioning in Massachusetts 

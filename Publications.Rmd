@@ -4,10 +4,10 @@ title: "Publications"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img style="width:23%; border:0px solid; margin-right: 10px" src="images/web_79.jpg">
+<img style="width:23%; border:0px solid; margin-right: 10px" src="images/web_3.jpg">
 <img style="width:23%; border:0px solid; margin-right: 10px" src="images/web_22.jpg">
-<img style="width:23%; border:0px solid; margin-right: 10px" src="images/web_74.jpg">
-<img style="width:23%; border:0px solid; margin-right: 10px" src="images/web_99.jpg">
+<img style="width:23%; border:0px solid; margin-right: 10px" src="images/web_19.jpg">
+<img style="width:23%; border:0px solid; margin-right: 10px" src="images/web_72.jpg">
 
 [Google scholar](https://scholar.google.com/citations?user=n9ztAjgAAAAJ&hl=en).
 

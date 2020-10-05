@@ -371,7 +371,7 @@ list.join(",")
             rotator1currentAd = 0;
         }
 
-            rotatorHtml += '<img src="' + rotator1imgs[rotator1currentAd] + '" alt = "' + rotator1alt[rotator1currentAd] + '" id="rotator1">' + endJs;
+            rotatorHtml += '<img style="float: center; width:50%; border:2px solid; margin-left: 10px" src="' + rotator1imgs[rotator1currentAd] + '" alt = "' + rotator1alt[rotator1currentAd] + '" id="rotator1">' + endJs;
     document.getElementById("rotator1_div").innerHTML = rotatorHtml;    
         rotator1currentAd++;
         window.setTimeout(rotator1cycle,2000);

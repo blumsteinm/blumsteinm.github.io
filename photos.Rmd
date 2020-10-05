@@ -11,7 +11,7 @@ output: html_document
 <!-- 
 
   var list = [];
-  for (var i = 1; i <= 119; i++) {
+  for (var i = 1; i <= 86; i++) {
     let str = 'images/web_';
     str += i;
     str += ".jpg";
@@ -28,7 +28,7 @@ list.join(",")
 		var thisImg = new Image();
 		thisImg.src = rotator1imgs[img];
 	}
-	var rotator1imgCt = 119;
+	var rotator1imgCt = 86;
 	var rotator1currentAd = 0;
 	var target = "";
 	var rotator1banner = document.getElementById('rotator1');
@@ -40,7 +40,7 @@ list.join(",")
 			rotator1currentAd = 0;
 		}
 
-			rotatorHtml += '<img src="' + rotator1imgs[rotator1currentAd] + '" alt = "' + rotator1alt[rotator1currentAd] + '" id="rotator1">' + endJs;
+			rotatorHtml += '<img style="width:50%; border:2px solid; margin-left: 10px" src="' + rotator1imgs[rotator1currentAd] + '" alt = "' + rotator1alt[rotator1currentAd] + '" id="rotator1">' + endJs;
 	document.getElementById("rotator1_div").innerHTML = rotatorHtml;	
 		rotator1currentAd++;
 		window.setTimeout(rotator1cycle,2000);
