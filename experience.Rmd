@@ -63,27 +63,27 @@ The storage of nonstructural carbohydrates is a trait that has been hypothesized
 <!--   <figcaption>For nonstructural carbohydrate (NSC) reserve formation to be considered an active process, NSC storage accumulation must exhibit (1) genetic variation and (2) NSC stores must tradeoff of with other carbon sinks (negative correlation in variance). Here we demonstrate how (A) relationships between carbon sink values measured in the field may be (B) formed in a number of different ways, thus complicating our ability to draw conclusions about active versus passive storage unless both (C) genetic variation is measured and (D) relativized for differences in individual productivity .</figcaption> -->
 <!-- </figure> -->
 
-**1) E and GxE in NSC storage** - found high E response in the proportion of stores residing as starch and high GxE in the total amount of stores between gardens. [In Review]
+**1) E and GxE in NSC storage** - Trees’ total amount of nonstructural carbohydrate (NSC) stores and the proportion of these stores residing as insoluble starch are vital traits for individuals living in variable environments. However, our understanding of how stores vary in response to environmental stress is poorly understood as the genetic component of storage is rarely accounted for in studies. Here, we quantified variation in NSC traits in branch samples taken from over 600 clonally transplanted black cottonwood (Populus trichocarpa) trees grown in two common gardens. We found heritable variation in both total NSC stores and the proportion of stores in starch (H2TNC = 0.19, H2PropStarch = 0.31), indicating a substantial genetic component of variation. In addition, we found high amounts of plasticity in both traits in response to cold temperatures and significant genotype-by-environment (GxE) interactions in the total amount of NSC stored (54% of P is GxE). This finding of high GxE indicates extensive variation across trees in their response to environment, which may explain why previous studies of carbohydrate stores’ responses to stress have failed to converge on a consistent pattern. Overall, we found high amounts of environmental and genetic variation in NSC storage concentrations, which may bolster species against future climate change. [In Review]
 
-<figure>
-  <img style="float: left; width:20%; border:0px solid; margin-left: 10px"
-  src="images/Ch3_Fig4.jpg">
+<!-- <figure> -->
+<!--   <img style="float: left; width:20%; border:0px solid; margin-left: 10px" -->
+<!--   src="images/Ch3_Fig4.jpg"> -->
 
-  <figcaption> Plasticity between the two common gardens in the two traits measured, (A) total NSC stores (TNC) and (B) the proportion of TNC in starch. Black lines represent the average value across all genotypes, with error bars indicating one standard deviation from the mean. The other lines are colored by latitude and each line represents a genotype, where genotype values were estimated using equation (1).</figcaption>
+<!--   <figcaption> Plasticity between the two common gardens in the two traits measured, (A) total NSC stores (TNC) and (B) the proportion of TNC in starch. Black lines represent the average value across all genotypes, with error bars indicating one standard deviation from the mean. The other lines are colored by latitude and each line represents a genotype, where genotype values were estimated using equation (1).</figcaption> -->
 
-</figure>
-
-
-<br>
-<br>
-<br>
-<br>
-
-**1)NSC legacy response to drought** - Measured NSC stores in 5 temperate tree species in the years before and after a drought event in the eastern United States. [In Prep]
+<!-- </figure> -->
 
 
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
 
-**1)How insect defoliation drove oak trees to carbon starvation in MA** - measure NSC levels across a natural experimental gradient of intensity and frequnecy of gypsy moth defoliation in MA [In prep]
+**1)NSC legacy response to drought** - Storage of nonstructural carbohydrates (NSCs) by plants may serve as a potential resiliency mechanism to drought, yet we know little about how NSCs respond under natural drought conditions. Here, we quantified in situ NSC responses of temperate forest trees to the 2016 drought in the northeastern United States. Sugar and starch concentrations were measured annually in the stemwood of five tree species from 2014-2019, which allowed us to monitor NSCs in relation to climatic conditions before, during, and following the natural drought. We found that immediately following drought, measured NSC concentrations decreased. However, NSC concentrations rebounded quickly within three years. Notably, trees allocated proportionally more to starch than to sugars following the 2016 drought. In winter 2017, starch comprised 45% of total stores, whereas starch made up only 1-2% in other years. Variation in total NSC concentrations was significantly predicted by the previous year’s temperature, with concentrations decreasing following hotter periods and increasing following cooler periods. Overall, our work provides insight into the climatic drivers of NSC storage and highlights the important role that starch metabolism may play in the regulation of C dynamics and plant resiliency during drought stress. [In Submission]
+
+
+
+**1)How insect defoliation drove oak trees to carbon starvation in MA** - measure NSC levels across a natural experimental gradient of intensity and frequency of gypsy moth defoliation in MA [In prep]
 
 
 
