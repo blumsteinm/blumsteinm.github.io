@@ -1,0 +1,56 @@
+---
+title: "Field Images"
+output: html_document
+---
+
+
+<div id = "rotator1_div"></div>
+
+
+<script>
+<!-- 
+
+  var nums = [3, 5, 10, 11, 14, 15, 16, 17, 19, 20, 23]
+  var list = [];
+  for (var i = 3; i <= 152; i++) {
+    let str = 'images/web_';
+    str += i;
+    str += ".jpg";
+    list.push(str);
+}
+list.join(",")
+
+  var rotator1imgs = list;
+	var rotator1alt = list;
+	var rotatorHtml = "";
+	var endJs = "";
+
+	for(var img in rotator1imgs){
+		var thisImg = new Image();
+		thisImg.src = rotator1imgs[img];
+	}
+	var rotator1imgCt = 131;
+	var rotator1currentAd = 0;
+	var target = "";
+	var rotator1banner = document.getElementById('rotator1');
+	
+	function rotator1cycle() {
+		var rotatorHtml = "";
+		var endJs = "";
+		if (rotator1currentAd == rotator1imgCt) {
+			rotator1currentAd = 0;
+		}
+
+			rotatorHtml += '<img style="width:75%; border:2px solid; margin-left: 10px" src="' + rotator1imgs[rotator1currentAd] + '" alt = "' + rotator1alt[rotator1currentAd] + '" id="rotator1">' + endJs;
+	document.getElementById("rotator1_div").innerHTML = rotatorHtml;	
+		rotator1currentAd++;
+		window.setTimeout(rotator1cycle,2000);
+	}
+	rotator1cycle();
+// -->
+</script>
+
+
+
+
+

@@ -1,0 +1,30 @@
+name: "Meghan J. Blumstein"
+output_dir: "."
+navbar:
+  title: "Meghan J. Blumstein"
+  left:
+    - text: "Current Research"
+      href: experience.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Presentations"
+      href: talks.html
+    - text: "Field Images"
+      href: gallery
+  right:
+    - icon: fa-photo fa-lg
+      href: https://blumsteinm.github.io/gallery
+    - icon: fa-envelope fa-lg
+      href: blumsteinm@gmail.com
+    - icon: fa-github fa-lg
+      href: http://github.com/blumsteinm
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/treeFutures
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/meghan-blumstein-07b0ab3b/
+output:
+  html_document:
+    css: 'styles.css'
+    theme: darkly
