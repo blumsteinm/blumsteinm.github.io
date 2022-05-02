@@ -11,8 +11,6 @@ navbar:
       href: teaching.html
     - text: "Presentations"
       href: talks.html
-    - text: "Field Images"
-      href: gallery
   right:
     - icon: fa-photo fa-lg
       href: https://blumsteinm.github.io/gallery
