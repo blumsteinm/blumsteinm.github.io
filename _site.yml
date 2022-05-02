@@ -11,11 +11,11 @@ navbar:
       href: teaching.html
     - text: "Presentations"
       href: talks.html
-    # - text: "Field Images"
-    #   href: gallery
+    - text: "Field Images"
+      href: gallery
   right:
-    # - icon: fa-photo fa-lg
-    #   href: https://blumsteinm.github.io/gallery
+    - icon: fa-photo fa-lg
+      href: https://blumsteinm.github.io/gallery
     - icon: fa-envelope fa-lg
       href: blumsteinm@gmail.com
     - icon: fa-github fa-lg
