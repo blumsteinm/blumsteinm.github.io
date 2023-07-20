@@ -1,17 +1,8 @@
-name: "Meghan J. Blumstein"
+name: "Blumstein Lab"
 output_dir: "."
-navbar:
-  title: "Meghan J. Blumstein"
+navbar_page:
+  title: "Home"
   left:
-    - text: "Current Research"
-      href: experience.html
-    - text: "Publications"
-      href: Publications.html
-    - text: "Teaching"
-      href: teaching.html
-    - text: "Presentations"
-      href: talks.html
-  right:
     - icon: fa-photo fa-lg
       href: https://blumsteinm.github.io/gallery
     - icon: fa-envelope fa-lg
@@ -22,7 +13,23 @@ navbar:
       href: https://twitter.com/treeFutures
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/meghan-blumstein-07b0ab3b/
+  right:
+    - icon: fa-solid fa-bars fa-lg
+    - menu: 
+      - text: "About"
+        href: about.html
+      - text: "People"
+        href: people.html
+      - text: "Publications"
+        href: Publications.html
+      - text: "Opportunities"
+        href: opportunities.html
+      - text: "Current Projects"
+        href: current_projects.html
+
 output:
   html_document:
+  # prettydoc::html_pretty:
     css: 'styles.css'
-    theme: darkly
+    # theme: cayman
+    theme: cosmo

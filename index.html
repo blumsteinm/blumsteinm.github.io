@@ -11,12 +11,12 @@
 
 
 
-<title>Home</title>
+<title>index.knit</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.22/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -181,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -190,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -248,24 +241,10 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Meghan J. Blumstein</a>
+      <a class="navbar-brand" href="index.html">Home</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li>
-  <a href="experience.html">Current Research</a>
-</li>
-<li>
-  <a href="Publications.html">Publications</a>
-</li>
-<li>
-  <a href="teaching.html">Teaching</a>
-</li>
-<li>
-  <a href="talks.html">Presentations</a>
-</li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="https://blumsteinm.github.io/gallery">
     <span class="fa fa-photo fa-lg"></span>
@@ -297,6 +276,37 @@ $(document).ready(function () {
   </a>
 </li>
       </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a>
+    <span class="fa fa-solid fa-bars fa-lg"></span>
+     
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="about.html">About</a>
+    </li>
+    <li>
+      <a href="people.html">People</a>
+    </li>
+    <li>
+      <a href="Publications.html">Publications</a>
+    </li>
+    <li>
+      <a href="opportunities.html">Opportunities</a>
+    </li>
+    <li>
+      <a href="current_projects.html">Current Projects</a>
+    </li>
+  </ul>
+</li>
+      </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
@@ -305,32 +315,201 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Home</h1>
 
 </div>
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p><img style="width:100%; border:0px solid; margin-right: 10px" src="images/web_96.jpg"></p>
-<p><br></p>
-<p>I am an NSF Postdoctoral Fellow interested in understanding how
-temperate trees will survive predicted climate change. I use a
-combination of plant ecophysiology, population genetics, functional
-genomics, and predictive modeling to explore the degree to which species
-will experience mortality, exhibit plasticity, or undergo local adaptive
-evolution in response to environmental change.</p>
-<p>My current fellowship project is advised by David DesMarais at <a
-href="https://cee.mit.edu/people_individual/david-des-marais/">MIT</a>
-and Isabelle Chuine at the <a
-href="https://www.cefe.cnrs.fr/fr/recherche/ef/dream/829-c/132-isabelle-chuine">Center
-for Functional Ecology and Evolution (CEFE)</a>. The work seeks to unite
-our understanding of the environmental and genetic drivers of variation
-in phenological timing into a unified, process-based model.</p>
-<p><br></p>
-<p><img style="width:23%; border:0px solid; margin-right: 10px" src="images/web_97.jpg">
-<img style="width:23%; border:0px solid; margin-right: 10px" src="images/web_98.jpg">
-<img style="width:23%; border:0px solid; margin-right: 10px" src="images/web_99.jpg">
-<img style="width:23%; border:0px solid; margin-right: 10px" src="images/web_93.jpg"></p>
+<style type="text/css">
+
+.info-tile {
+  height: 20vw;
+  width: 100vw;
+  max-width: 900px;
+  max-height: 200px;
+  background: #ffffff;
+  display: inline-block;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  word-wrap: break-word;
+  line-height: 5vw;
+  font-size: 5vw;
+  color: white;
+  font-weight: bold;
+  position: relative;
+  margin:0.5%
+}
+
+
+.info-tile:hover {
+  opacity:0.5;
+}
+
+.info-tile-large-text {
+  display: inline-block;
+  padding-left: 1vw;
+  margin-top: 2.5vw;
+  margin-bottom:4vw;
+  font-size: 75%;
+}
+
+.info-tile-small-text {
+  display: inline-block;
+  font-size: 40%;
+  padding-left: 1vw;
+}
+
+.info-tile-img {
+  position: absolute;
+  left: 52%;
+  top: 15%;
+  opacity: .4;
+  height: 10vw;
+  font-size:10vw;
+}
+
+/* At large media widths */
+@media screen and (min-width: 1000px) {
+  .info-tile {
+    font-size: 50px;
+    line-height: 65px;
+  }
+  
+  .info-tile-large-text {
+    display: inline-block;
+    padding-left: 10px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+  }
+  
+  .info-tile-small-text {
+    display: inline-block;
+    font-size: 40%;
+    padding-left: 10px;
+  }
+  
+  .info-tile-img{
+    position: absolute;
+    left: 52%;
+    top: 15%;
+    //opacity: .4;
+    height: 100px;
+    font-size: 100px;
+  }
+}
+
+.info-tile2 {
+  height: 20vw;
+  width: 33vw;
+  max-width: 900px;
+  max-height: 200px;
+  background: #ffffff;
+  display: inline-block;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  word-wrap: break-word;
+  line-height: 5vw;
+  font-size: 5vw;
+  color: white;
+  font-weight: bold;
+  position: relative;
+  margin:0.5%
+}
+
+.info-tile2:hover {
+  opacity:0.5;
+}
+
+.info-tile2-large-text {
+  display: inline-block;
+  padding-left: 1vw;
+  margin-top: 2.5vw;
+  margin-bottom:4vw;
+  font-size:60%;
+}
+
+.info-tile2-small-text {
+  display: inline-block;
+  font-size: 40%;
+  padding-left: 1vw;
+}
+
+.info-tile2-img {
+  position: absolute;
+  left: 52%;
+  top: 15%;
+  opacity: .4;
+  height: 10vw;
+  font-size:10vw;
+}
+
+/* At large media widths */
+@media screen and (min-width: 1000px) {
+  .info-tile2 {
+    font-size: 50px;
+    line-height: 65px;
+  }
+  
+  .info-tile2-large-text {
+    display: inline-block;
+    padding-left: 10px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+  }
+  
+  .info-tile2-small-text {
+    display: inline-block;
+    font-size: 40%;
+    padding-left: 10px;
+  }
+  
+  .info-tile2-img{
+    position: absolute;
+    left: 52%;
+    top: 15%;
+    //opacity: .4;
+    height: 100px;
+    font-size: 100px;
+  }
+}
+
+</style>
+<div>
+<p><!-- <div class="info-tile" id="tile1" style = "background-image: url('images/web_5.jpg');"> -->
+<!--  <span class = "info-tile-large-text">About</span> <br /> -->
+<!--  <span class = "info-tile-small-text">__</span>  -->
+<!-- </div> --></p>
+<a href="about.html" >
+<div id="tile1" class="info-tile" style="background: #455C7B;">
+<span class="info-tile-large-text">About</span> <br />
+<span class = "info-tile-small-text">__</span>
+</div>
+<p></a></p>
+<a href="people.html" >
+<div id="tile3" class="info-tile2" style="background: #685C99;">
+<span class="info-tile-large-text">People</span> <br />
+<span class = "info-tile-small-text">__</span>
+</div>
+<p></a></p>
+<a href="Publications.html" >
+<div id="tile4" class="info-tile2" style="background: #AC6C99;">
+<span class="info-tile-large-text">Publications</span> <br />
+<span class = "info-tile-small-text">__</span>
+</div>
+<p></a></p>
+<a href="opportunities.html" >
+<div id="tile4" class="info-tile2" style="background: #DA727E;">
+<span class="info-tile-large-text">Opportunities</span> <br />
+<span class = "info-tile-small-text">__</span>
+</div>
+<p></a></p>
+<a href="current_projects.html" >
+<div id="tile5" class="info-tile" style="background: #FFBC67;">
+<span class="info-tile-large-text">Current Projects</span> <br />
+<span class = "info-tile-small-text">__</span>
+</div>
+<p></a></p>
+</div>
 
 
 

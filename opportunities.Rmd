@@ -1,0 +1,52 @@
+---
+title: "Opportunities"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/web_131.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+<br>
+<br>
+<br>
+
+**Actively recruiting for August 2024 start date!**
+
+## Undergraduate
+We will update this section for academic year 2024-2025. Feel free to [browse](https://evsc.as.virginia.edu/graduate-mentor-list) other interesting opportunities in the department in the meantime. 
+
+## Graduate Students
+Please check out UVA Environmental Science Department's [graduate website](https://evsc.as.virginia.edu/graduate) for more information on applying and requirements. 
+
+I highly encourage prospective students to reach out to me by email prior to the application due date with a short statement of interest and a copy of the resume/cv. I also encourage students to apply for graduate fellowships during their application process, which I will happily work on with prospective students. While PhDs are funded, these fellowships would afford you more flexibility in your research interests, a higher pay rate, and great preparation for future fellowship and grant applications. 
+
+Relevant programs include: 
+
+* [NSF GRFP](https://www.nsfgrfp.org/)
+* [DOD NDSEG](https://ndseg.sysplus.com/)
+* [USDA AFRI](https://www.nifa.usda.gov/grants/funding-opportunities/agriculture-food-research-initiative-education-workforce-development)
+* [Ford Foundation Fellowship](https://sites.nationalacademies.org/PGA/FordFellowships/index.htm)
+
+[Here's](https://seas.umich.edu/prospective-students) a helpful site from Michigan on how to prepare and apply to graduate school. 
+
+## Postdoctoral Fellows
+
+Prospective postdcos please send a CV, a brief statement of interests, and background to my current address at the Harvard Forest blumstein (at) fas.harvard.edu
+
+I also strongly encourage potential postdocs to work together with me to apply for external fellowships, including but not limited to: 
+
+* [NOAA Climate and Global Change Fellowship](https://cpaess.ucar.edu/cgc/how-postdoctorates-apply)
+* [USDA AFRI Postdocral Fellowship](https://www.nifa.usda.gov/grants/funding-opportunities/agriculture-food-research-initiative-education-workforce-development)
+* [NSF Postdoctoral Research Fellowship in Biology](https://new.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb)
+* [NIH K99 Pathway to Independence](https://grants.nih.gov/grants/guide/pa-files/PA-20-188.html)
+* [Ford Foundation Fellowship](https://sites.nationalacademies.org/PGA/FordFellowships/index.htm)
+* [Hannah H. Gray Fellows Program](https://www.hhmi.org/programs/hanna-h-gray-fellows-program)
+
+
+
+
+
+<br>
+<img src="images/image_50453505.jpg" style="width:40%; border:0px solid; margin-right: 20px" align="left">
+
