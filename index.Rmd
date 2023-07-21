@@ -12,10 +12,10 @@
 ```{css, echo=FALSE}
   
 .info-tile {
-  height: 20vw;
+  height: 30vw;
   width: 91vw;
   max-width: 880px;
-  max-height: 200px;
+  max-height: 300px;
   background: #ffffff;
   display: flex;
   text-overflow: ellipsis;
@@ -34,7 +34,7 @@ opacity:0.5;
 }
 
 .info-tile-large-text {
-display: inline-block;
+display: float;
 padding-left: 1vw;
 margin-top: 2.5vw;
 margin-bottom:4vw;
@@ -48,7 +48,7 @@ padding-left: 1vw;
 }
 
 .info-tile-img {
-position: absolute;
+position: float;
 left: 52%;
 top: 15%;
 opacity: .4;
@@ -87,10 +87,10 @@ font-size:10vw;
 }
 
 .info-tile2 {
-height: 20vw;
+height: 30vw;
 width: 30vw;
 max-width: 300px;
-max-height: 200px;
+max-height: 300px;
 background: #ffffff;
   display: inline-block;
 text-overflow: ellipsis;
@@ -108,28 +108,6 @@ margin:0.01%
 opacity:0.5;
 }
 
-.info-tile2-large-text {
-display: inline-block;
-padding-left: 1vw;
-margin-top: 2.5vw;
-margin-bottom:4vw;
-font-size:60%;
-}
-
-.info-tile2-small-text {
-display: inline-block;
-font-size: 40%;
-padding-left: 1vw;
-}
-
-.info-tile2-img {
-position: absolute;
-left: 52%;
-top: 15%;
-opacity: .4;
-height: 10vw;
-font-size:10vw;
-}
 
 /* At large media widths */
 @media screen and (min-width: 1000px) {
@@ -152,7 +130,7 @@ font-size:10vw;
   }
   
   .info-tile2-img{
-    position: absolute;
+    position: float;
     left: 52%;
     top: 15%;
     //opacity: .4;
@@ -195,39 +173,40 @@ a:active {
 
 <div class="info-tile" id="tile1" style = "background: #455C7B;">
 <!-- <div class="info-tile" id="tile1" style = "background-image: url('images/web_3.jpg');"> -->
-<a href="about.html" class="link">
 <span class = "info-tile-large-text">About</span> <br />
-<span class = "info-tile-small-text">__</span> 
+<a href="about.html" class="link">
+  <img src="images/web_5.jpg" alt="">
+  </a>
 </div>
-</a>
 
-<div class="info-tile2" id="tile3" style = "background: #685C99;">
-<a href="people.html" class="link">
-<!-- <img src="images/web_129.jpg"> -->
+
+<div class="info-tile2" id="tile2" style = "background: #685C99;">
 <span class = "info-tile-large-text">People</span> <br />
-<span class = "info-tile-small-text">__</span> 
+<a href="people.html" class="link">
+  <img src="images/image_50752513.jpg" style="width:105%" alt="">
+  </a>
 </div>
 
-<div class="info-tile2" id="tile4" style = "background: #AC6C99;">
-<a href="Publications.html" class="link">
-<!-- <img src="images/web_129.jpg"> -->
+
+<div class="info-tile2" id="tile3" style = "background: #AC6C99;">
 <span class = "info-tile-large-text">Publications</span> <br />
-<span class = "info-tile-small-text">__</span> 
+<a href="Publications.html" class="link">
+  <img src="images/web_106.jpg" style="width:100%" alt="">
+  </a>
 </div>
-
 
 <div class="info-tile2" id="tile4" style = "background: #DA727E;">
-<a href="opportunities.html" class="link">
-<!-- <img src="images/web_129.jpg"> -->
 <span class = "info-tile-large-text">Opportunities</span> <br />
-<span class = "info-tile-small-text">__</span> 
+<a href="opportunities.html" class="link">
+  <img src="images/web_3.jpg" style="height:160%" alt="">
+  </a>
 </div>
 
 <div class="info-tile" id="tile5" style = "background: #FFBC67;">
-<a href="current_projects.html" class="link">
-<!-- <img src="images/web_129.jpg"> -->
 <span class = "info-tile-large-text">Current Projects</span> <br />
-<span class = "info-tile-small-text">__</span>
+<a href="current_projects.html" class="link">
+  <img src="images/web_128.jpg" style="width:100%" alt="">
+  </a>
 </div>
 
 
