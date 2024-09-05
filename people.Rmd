@@ -9,7 +9,7 @@ output: html_document
 
 <img src="images/web_129.jpg" style="width:12%; border:0px solid; margin-right: 20px" align="left">
 
-**Meghan Blumstein**. Assistant Professor in Environmental Sciences and Architecture. Meghan has a joint appointment in the College and Graduate School of Arts and Sciences and the School of Architecture starting in August of 2024. Meghan received her BA from Middlebury College, where she studied dendroecology with her advisor Andrea Lloyd. She then completed her PhD at Harvard University in Organismal and Evolutionary Biology, working with plant physiologist Missy Holbrook and geneticist Robin Hopkins. She is currently a Bullard Fellow at the Harvard Forest and Postdoct affiliate at MIT and looking forward to joining the UVA faculty next year. 
+**Meghan Blumstein**. Assistant Professor in Environmental Sciences and Architecture. Meghan has a joint appointment in the College and Graduate School of Arts and Sciences and the School of Architecture starting in August of 2024. Meghan received her BA from Middlebury College, where she studied dendroecology with her advisor Andrea Lloyd. She then completed her PhD at Harvard University in Organismal and Evolutionary Biology, working with plant physiologist Missy Holbrook and geneticist Robin Hopkins. She most recently was a Bullard Fellow at the Harvard Forest and Postdoctoral affiliate at MIT.  
 
 <br>
 <br>
