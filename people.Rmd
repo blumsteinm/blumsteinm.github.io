@@ -18,6 +18,15 @@ output: html_document
 
 ## Graduate Students and Techs
 
+<img src="images/miranda_headshot.jpg" style="width:12%; border:0px solid; margin-right: 20px" align="left">
+
+**Miranda Oseguera** Lab Technician. Contact: pns2bg@virginia.edu
+
+<br>
+<br>
+<br>
+
+
 ## Undergraduates
 
 
